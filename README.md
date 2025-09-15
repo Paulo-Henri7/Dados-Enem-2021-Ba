@@ -12,7 +12,9 @@ O objetivo desse projeto é analisar dados do ENEM 2021 no Estado da Bahia.
 
 # Análises feitas
 
+No TP_ESCOLA 1 significa que o participante não respondeu, 2 que o participante é de escola pública e 3 que o participante é de escola privada.
 
+Uma hipótese que tive êxito em responder foi se a escola privada tem maior nota quando comparada com a pública e, sim, tem uma diferença de 124 pontos para a escola privada. 
 
 <img width="500" height="500" alt="image1" src="https://github.com/user-attachments/assets/8241c05b-e7b3-4902-bd4c-b6b70fa6b695" />
 

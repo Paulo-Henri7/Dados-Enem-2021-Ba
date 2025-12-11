@@ -3,7 +3,6 @@
 O objetivo desse projeto é analisar dados do ENEM 2021 no Estado da Bahia.
 
 # Hipóteses levantadas
-- Estado tem correlação com a nota do ENEM?
 - Cidade afeta a nota do participante?
 - Idade do participante tem correlação com a nota do ENEM?
 - Renda familiar tem correlação com a nota do ENEM?

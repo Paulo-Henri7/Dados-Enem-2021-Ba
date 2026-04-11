@@ -1,17 +1,43 @@
-# Dados Enem 2021 Bahia
+# Projeto Enem - Análise de dados ENEM 2021 Bahia
 
-O objetivo desse projeto é analisar dados do ENEM 2021 no Estado da Bahia.
+Este projeto tem como objetivo analisar os dados do ENEM 2021 no estado da Bahia, com foco em identificar fatores que influenciam o desempenho dos participantes.
 
-# Hipóteses levantadas
-- Cidade afeta a nota do participante?
-- Renda familiar tem correlação com a nota do ENEM?
-- Há diferença de nota entre alunos do particular e do público?
-- Qual matéria tem maior nota naquele Estado?
-- Sexo do participante tem correlação com maior nota no ENEM?
-- A raça do participante influencia na nota?
-- Questões socioeconômicos têm relação com a nota do ENEM?
+A partir de técnicas de análise exploratória de dados (EDA), são investigadas variáveis socioeconômicas e demográficas — como sexo, cor/raça, renda familiar e tipo de escolaridade — a fim de compreender suas relações com as notas obtidas nas diferentes áreas do exame.
 
-# Análises feitas
+# Perguntas de análise
+
+- Existe correlação entre sexo e desempenho no ENEM?
+- O tipo de escola (pública/privada) influencia a nota?
+- A renda familiar impacta o desempenho?
+- Há diferença de nota entre cidades/estados?
+- Existe relação entre cor/raça e desempenho?
+- Quais fatores socioeconômicos mais influenciam a nota?
+
+# Respondendo perguntas levantadas
+
+* Existe correlação entre sexo e desempenho no ENEM?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Cidade afeta a nota do participante?
 
 Sim

@@ -17,6 +17,6 @@ A partir de técnicas de análise exploratória de dados (EDA), são investigada
 
 * Existe correlação entre sexo e desempenho no ENEM?
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4fb8df87-c548-4469-8c1c-27978e6ed42b" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/4fb8df87-c548-4469-8c1c-27978e6ed42b" />  <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e8741b2d-28b7-4cde-85de-99acd96e9f5b" />
 
-A análise dos boxplots indica que, no conjunto de dados analisado, participantes do sexo masculino apresentaram medianas ligeiramente superiores nas provas avaliadas. No entanto, as distribuições apresentam sobreposição significativa, o que sugere que a diferença entre os grupos não é tão acentuada.
+A análise dos boxplots indica que, no conjunto de dados analisado, participantes do sexo masculino apresentaram medianas ligeiramente superiores na maioria das provas. No entanto, observa-se uma sobreposição significativa entre as distribuições, sugerindo que as diferenças entre os grupos não são tão acentuadas. Já o gráfico de barras complementa a análise ao evidenciar as médias das notas por sexo nas cinco provas, reforçando a tendência de desempenho ligeiramente superior dos participantes do sexo masculino.

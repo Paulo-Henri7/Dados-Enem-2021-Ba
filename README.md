@@ -9,9 +9,7 @@ A partir de técnicas de análise exploratória de dados (EDA), são investigada
 - Existe correlação entre sexo e desempenho no ENEM?
 - O tipo de escola (pública/privada) influencia a nota?
 - A renda familiar impacta o desempenho?
-- Há diferença de nota entre cidades/estados?
 - Existe relação entre cor/raça e desempenho?
-- Quais fatores socioeconômicos mais influenciam a nota?
 
 # Respondendo perguntas levantadas
 

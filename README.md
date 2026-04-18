@@ -33,3 +33,22 @@ A análise dos boxplots indica que, no conjunto de dados analisado, participante
   </p>
 
 A análise dos boxplots revela que essa diferença não se limita apenas à média, mas também à distribuição das notas, com maior concentração de valores mais altos entre alunos da rede privada. Esse padrão também se reflete na mediana (linha central da caixa), que é consistentemente inferior entre os alunos de escolas públicas em comparação aos de escolas privadas. Os histogramas reforçam essa interpretação, evidenciando que as distribuições das escolas privadas tendem a estar mais deslocadas para a direita, com maior frequência de notas elevadas, enquanto as escolas públicas apresentam maior concentração em faixas intermediárias.
+
+
+* A renda familiar impacta o desempenho?
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/872997bf-2031-4034-9735-3e3f3e4936c2" width="49%" />
+  <img src="https://github.com/user-attachments/assets/48792062-6c7d-4734-9f63-96eb665134c8" width="49%" />
+  </p>
+
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/521c4922-9cea-4852-8c4b-972fc5fe1dcb" width="49%" />
+  <img src="https://github.com/user-attachments/assets/960852a5-0cd9-48f8-a797-82585c60b9a4" width="49%" />
+  </p>
+
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/cd1dec5e-98ee-4302-b4c1-6f9d367a158f" width="90%" />
+  </p>
+
+A análise dos boxplots evidencia uma relação consistente entre renda familiar e desempenho nas provas do ENEM. Em todas as áreas, observa-se um deslocamento da distribuição das notas para valores mais altos à medida que a renda aumenta, refletido tanto na elevação da mediana quanto na redução relativa da concentração de notas mais baixas. Esse padrão é particularmente acentuado na prova de redação, sugerindo que fatores socioeconômicos podem influenciar mais intensamente habilidades que dependem de repertório cultural, acesso à educação de qualidade e suporte educacional.

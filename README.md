@@ -15,19 +15,19 @@ A partir de técnicas de análise exploratória de dados (EDA), são investigada
 
 * Existe correlação entre sexo e desempenho no ENEM?
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e2b0cfc4-2079-44f5-954e-b2bcc9440b10" width="49%" />
-  <img src="https://github.com/user-attachments/assets/7dacd853-8d51-47dd-a828-b66af289e830" width="49%" />
- </p>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/e2b0cfc4-2079-44f5-954e-b2bcc9440b10" width="49%" />
+    <img src="https://github.com/user-attachments/assets/7dacd853-8d51-47dd-a828-b66af289e830" width="49%" />
+  </p>
 
 
 A análise dos boxplots indica que, no conjunto de dados analisado, participantes do sexo masculino apresentaram medianas ligeiramente superiores na maioria das provas. No entanto, observa-se uma sobreposição significativa entre as distribuições, sugerindo que as diferenças entre os grupos não são tão acentuadas. Já o gráfico de barras complementa a análise ao evidenciar as médias das notas por sexo nas cinco provas, reforçando a tendência de desempenho ligeiramente superior dos participantes do sexo masculino.
 
 * O tipo de escola (pública/privada) influencia a nota?
  
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/84f73d78-0b26-4618-984a-b6194809c85d" width="49%" />
-  <img src="https://github.com/user-attachments/assets/ac7c88cc-e511-4e89-a4e7-7e3e06365417" width="49%" />
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/84f73d78-0b26-4618-984a-b6194809c85d" width="49%" />
+    <img src="https://github.com/user-attachments/assets/ac7c88cc-e511-4e89-a4e7-7e3e06365417" width="49%" />
   </p>
 
 A análise dos boxplots revela que essa diferença não se limita apenas à média, mas também à distribuição das notas, com maior concentração de valores mais altos entre alunos da rede privada. Esse padrão também se reflete na mediana (linha central da caixa), que é consistentemente inferior entre os alunos de escolas públicas em comparação aos de escolas privadas. Os histogramas reforçam essa interpretação, evidenciando que as distribuições das escolas privadas tendem a estar mais deslocadas para a direita, com maior frequência de notas elevadas, enquanto as escolas públicas apresentam maior concentração em faixas intermediárias.
@@ -36,17 +36,17 @@ A análise dos boxplots revela que essa diferença não se limita apenas à méd
 * A renda familiar impacta o desempenho?
 
   <p align="center">
-  <img src="https://github.com/user-attachments/assets/872997bf-2031-4034-9735-3e3f3e4936c2" width="49%" />
-  <img src="https://github.com/user-attachments/assets/48792062-6c7d-4734-9f63-96eb665134c8" width="49%" />
+    <img src="https://github.com/user-attachments/assets/872997bf-2031-4034-9735-3e3f3e4936c2" width="49%" />
+    <img src="https://github.com/user-attachments/assets/48792062-6c7d-4734-9f63-96eb665134c8" width="49%" />
   </p>
 
   <p align="center">
-  <img src="https://github.com/user-attachments/assets/521c4922-9cea-4852-8c4b-972fc5fe1dcb" width="49%" />
-  <img src="https://github.com/user-attachments/assets/960852a5-0cd9-48f8-a797-82585c60b9a4" width="49%" />
+    <img src="https://github.com/user-attachments/assets/521c4922-9cea-4852-8c4b-972fc5fe1dcb" width="49%" />
+    <img src="https://github.com/user-attachments/assets/960852a5-0cd9-48f8-a797-82585c60b9a4" width="49%" />
   </p>
 
   <p align="center">
-  <img src="https://github.com/user-attachments/assets/cd1dec5e-98ee-4302-b4c1-6f9d367a158f" width="90%" />
+    <img src="https://github.com/user-attachments/assets/cd1dec5e-98ee-4302-b4c1-6f9d367a158f" width="90%" />
   </p>
 
 A análise dos boxplots evidencia uma relação consistente entre renda familiar e desempenho nas provas do ENEM. Em todas as áreas, observa-se um deslocamento da distribuição das notas para valores mais altos à medida que a renda aumenta, refletido tanto na elevação da mediana quanto na redução relativa da concentração de notas mais baixas. Esse padrão é particularmente acentuado na prova de redação, sugerindo que fatores socioeconômicos podem influenciar mais intensamente habilidades que dependem de repertório cultural, acesso à educação de qualidade e suporte educacional.
@@ -71,11 +71,14 @@ A análise dos boxplots indica a existência de diferenças no desempenho entre 
 
 # Análise exploratória de dados(EDA)
 
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/0365c037-48da-4676-8c43-90f059c4aa9c" />
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/94be1f0a-0c42-4a27-948b-4dd920d4ecaf" /> 
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/cc6c2deb-d9e4-4771-8919-be11fd01c0c4" /> 
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/85b5949f-68f4-4b6f-a7a5-45fd5dcef2bf" /> 
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/1154c533-19c3-445d-827a-f4b98572e20f" />
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/85b5949f-68f4-4b6f-a7a5-45fd5dcef2bf" width="49%" />
+    <img src="https://github.com/user-attachments/assets/1154c533-19c3-445d-827a-f4b98572e20f" width="49%" />
+  </p>
+
+  <img width="550" height="500" alt="image" src="https://github.com/user-attachments/assets/94be1f0a-0c42-4a27-948b-4dd920d4ecaf" /> 
+  <img width="550" height="500" alt="image" src="https://github.com/user-attachments/assets/cc6c2deb-d9e4-4771-8919-be11fd01c0c4" /> 
+  <img width="550" height="500" alt="image" src="https://github.com/user-attachments/assets/0365c037-48da-4676-8c43-90f059c4aa9c" />
 
 
 

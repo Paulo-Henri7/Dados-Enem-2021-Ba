@@ -2,7 +2,7 @@
 
 Este projeto tem como objetivo analisar os dados do ENEM 2021 no estado da Bahia, com foco em identificar fatores que influenciam o desempenho dos participantes.
 
-A partir de técnicas de análise exploratória de dados (EDA), são investigadas variáveis socioeconômicas e demográficas — como sexo, cor/raça, renda familiar e tipo de escolaridade — a fim de compreender suas relações com as notas obtidas nas diferentes áreas do exame.
+A partir de técnicas de análise exploratória de dados (EDA), são investigadas variáveis socioeconômicas e demográficas, como sexo, cor/raça, renda familiar e tipo de escolaridade, a fim de compreender suas relações com as notas obtidas nas diferentes áreas do exame.
 
 # Perguntas de análise
 

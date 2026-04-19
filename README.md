@@ -68,3 +68,18 @@ A análise dos boxplots evidencia uma relação consistente entre renda familiar
   </p>
   
 A análise dos boxplots indica a existência de diferenças no desempenho entre os grupos de cor/raça. Observa-se que participantes brancos e amarelos tendem a apresentar medianas ligeiramente superiores na maioria das provas, enquanto participantes pardos e pretos apresentam desempenhos intermediários, e indígenas apresentam as menores medianas. Além disso, a prova de redação se destaca por apresentar maior variabilidade e maior diferença entre os grupos, sugerindo maior sensibilidade a fatores socioeconômicos e educacionais.
+
+# Análise exploratória de dados(EDA)
+
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/0365c037-48da-4676-8c43-90f059c4aa9c" />
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/94be1f0a-0c42-4a27-948b-4dd920d4ecaf" /> 
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/cc6c2deb-d9e4-4771-8919-be11fd01c0c4" /> 
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/85b5949f-68f4-4b6f-a7a5-45fd5dcef2bf" /> 
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/1154c533-19c3-445d-827a-f4b98572e20f" />
+
+
+
+
+
+
+

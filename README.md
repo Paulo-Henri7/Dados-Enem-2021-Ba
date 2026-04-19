@@ -35,7 +35,7 @@ A análise dos boxplots revela que essa diferença não se limita apenas à méd
 
 * A renda familiar impacta o desempenho?
 
-<p align="center">
+  <p align="center">
   <img src="https://github.com/user-attachments/assets/872997bf-2031-4034-9735-3e3f3e4936c2" width="49%" />
   <img src="https://github.com/user-attachments/assets/48792062-6c7d-4734-9f63-96eb665134c8" width="49%" />
   </p>
@@ -50,3 +50,21 @@ A análise dos boxplots revela que essa diferença não se limita apenas à méd
   </p>
 
 A análise dos boxplots evidencia uma relação consistente entre renda familiar e desempenho nas provas do ENEM. Em todas as áreas, observa-se um deslocamento da distribuição das notas para valores mais altos à medida que a renda aumenta, refletido tanto na elevação da mediana quanto na redução relativa da concentração de notas mais baixas. Esse padrão é particularmente acentuado na prova de redação, sugerindo que fatores socioeconômicos podem influenciar mais intensamente habilidades que dependem de repertório cultural, acesso à educação de qualidade e suporte educacional.
+
+* Existe relação entre cor/raça e desempenho?
+
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/098fdafc-469e-40b4-acd3-d2f5fe665196" width="49%" />
+    <img src="https://github.com/user-attachments/assets/60f409d4-5c90-4294-8912-84b903796319" width="49%" />
+  </p>
+
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/b01212dd-597f-4480-a9f4-490859118558" width="49%" />
+    <img src="https://github.com/user-attachments/assets/6bf29f6d-b3e9-4c84-aa15-c5add4df57b1" width="49%" />
+  </p>
+  
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/c5f17951-a46b-43a0-980c-7d65d4da61d7" width="90%" />
+  </p>
+  
+A análise dos boxplots indica a existência de diferenças no desempenho entre os grupos de cor/raça. Observa-se que participantes brancos e amarelos tendem a apresentar medianas ligeiramente superiores na maioria das provas, enquanto participantes pardos e pretos apresentam desempenhos intermediários, e indígenas apresentam as menores medianas. Além disso, a prova de redação se destaca por apresentar maior variabilidade e maior diferença entre os grupos, sugerindo maior sensibilidade a fatores socioeconômicos e educacionais.

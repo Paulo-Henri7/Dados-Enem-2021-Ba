@@ -74,17 +74,28 @@ A análise dos boxplots indica a existência de diferenças no desempenho entre 
 * Correlação entre provas de exatas: Matemática e Ciências da Natureza | Correlação entre provas de humanas: Linguagens e Ciências Humanas
 
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/4e52ed5a-81e3-474a-926f-749cdda68742" width="49%" />
-    <img src="https://github.com/user-attachments/assets/a7f24ac6-4f56-4a10-bf6e-a703311fd7db" width="49%" />
+    <img src="https://github.com/user-attachments/assets/a895673b-8045-441f-898e-29944039586c" width="49%" />
+    <img src="https://github.com/user-attachments/assets/eb998565-adb8-4871-8764-3bbb94ebd9e2" width="49%" />
   </p>
 
 Observa-se uma correlação positiva entre as provas analisadas, indicando que alunos com bom desempenho em uma área tendem a apresentar resultados semelhantes em áreas correlatas, especialmente nas disciplinas de exatas, onde a relação se mostra mais consistente. Além disso, há uma diferença clara entre tipos de escola, com alunos de escolas privadas concentrando-se em faixas de notas mais elevadas e apresentando menor dispersão, enquanto alunos de escolas públicas demonstram maior variabilidade no desempenho.
 
+* Comparação da distribuição das notas entre escolas privadas e públicas
 
-  <img width="650" height="450" alt="image" src="https://github.com/user-attachments/assets/f889842f-f990-4b73-acab-fc0783119d8e" />
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/29b972e2-5bcb-47f5-a573-cecc2ac0fd09" width="49%" />
+    <img src="https://github.com/user-attachments/assets/60f29e56-d4e8-45df-9eb8-09449dacfcb4" width="49%" />
+  </p>
+  
+A análise evidencia uma diferença consistente de desempenho entre alunos de escolas públicas e privadas em todas as disciplinas, com vantagem para as escolas privadas. No entanto, a prova de Redação se destaca de forma mais expressiva, apresentando medianas mais elevadas e maior variabilidade em ambos os grupos.
 
+* Correlação entre as provas do ENEM
+ 
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/303b333e-04d3-483c-9a94-c6eef96657b9" />
 
-  <img width="550" height="500" alt="image" src="https://github.com/user-attachments/assets/cc6c2deb-d9e4-4771-8919-be11fd01c0c4" /> 
+As provas objetivas do ENEM apresentam correlações moderadas entre si, indicando que o desempenho dos alunos tende a ser relativamente consistente entre diferentes áreas do conhecimento, com destaque para a forte relação entre Linguagens e Ciências Humanas, possivelmente devido à similaridade nas habilidades exigidas, como interpretação e análise textual. As demais combinações, incluindo Matemática e Ciências da Natureza, também demonstram correlações relevantes, sugerindo uma base comum de competências. Por outro lado, a Redação apresenta correlações mais baixas com todas as provas, variando entre 0.44 e 0.49, o que indica que essa avaliação mede habilidades mais específicas, como argumentação, coesão textual e repertório sociocultural.
+
+* Análise geográfica
   <img width="550" height="500" alt="image" src="https://github.com/user-attachments/assets/0365c037-48da-4676-8c43-90f059c4aa9c" />
 
 

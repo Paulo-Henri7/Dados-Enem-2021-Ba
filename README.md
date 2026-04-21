@@ -107,4 +107,4 @@ As provas objetivas do ENEM apresentam correlações moderadas entre si, indican
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/667da114-5908-4939-8312-7cc6b7a4e5da" />
 
-
+<img width="600" height="337" alt="Gif_projeto_ENEM_2" src="https://github.com/user-attachments/assets/01cd77da-4003-4296-b295-79d00ed3c0d9" />

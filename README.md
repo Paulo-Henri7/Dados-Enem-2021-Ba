@@ -96,11 +96,5 @@ A análise evidencia uma diferença consistente de desempenho entre alunos de es
 As provas objetivas do ENEM apresentam correlações moderadas entre si, indicando que o desempenho dos alunos tende a ser relativamente consistente entre diferentes áreas do conhecimento, com destaque para a forte relação entre Linguagens e Ciências Humanas, possivelmente devido à similaridade nas habilidades exigidas, como interpretação e análise textual. As demais combinações, incluindo Matemática e Ciências da Natureza, também demonstram correlações relevantes, sugerindo uma base comum de competências. Por outro lado, a Redação apresenta correlações mais baixas com todas as provas, variando entre 0.44 e 0.49, o que indica que essa avaliação mede habilidades mais específicas, como argumentação, coesão textual e repertório sociocultural.
 
 * Análise geográfica
-  <img width="550" height="500" alt="image" src="https://github.com/user-attachments/assets/0365c037-48da-4676-8c43-90f059c4aa9c" />
 
-
-
-
-
-
-
+  <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/65f4a325-9f96-4879-9c3d-e5a873e3ab19" />

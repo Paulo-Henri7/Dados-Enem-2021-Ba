@@ -68,15 +68,22 @@ A análise dos boxplots evidencia uma relação consistente entre renda familiar
   </p>
   
 A análise dos boxplots indica a existência de diferenças no desempenho entre os grupos de cor/raça. Observa-se que participantes brancos e amarelos tendem a apresentar medianas ligeiramente superiores na maioria das provas, enquanto participantes pardos e pretos apresentam desempenhos intermediários, e indígenas apresentam as menores medianas. Além disso, a prova de redação se destaca por apresentar maior variabilidade e maior diferença entre os grupos, sugerindo maior sensibilidade a fatores socioeconômicos e educacionais.
-
+ 
 # Análise exploratória de dados(EDA)
 
+* Correlação entre provas de exatas: Matemática e Ciências da Natureza | Correlação entre provas de humanas: Linguagens e Ciências Humanas
+
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/85b5949f-68f4-4b6f-a7a5-45fd5dcef2bf" width="49%" />
-    <img src="https://github.com/user-attachments/assets/1154c533-19c3-445d-827a-f4b98572e20f" width="49%" />
+    <img src="https://github.com/user-attachments/assets/4e52ed5a-81e3-474a-926f-749cdda68742" width="49%" />
+    <img src="https://github.com/user-attachments/assets/a7f24ac6-4f56-4a10-bf6e-a703311fd7db" width="49%" />
   </p>
 
-  <img width="550" height="500" alt="image" src="https://github.com/user-attachments/assets/94be1f0a-0c42-4a27-948b-4dd920d4ecaf" /> 
+Observa-se uma correlação positiva entre as provas analisadas, indicando que alunos com bom desempenho em uma área tendem a apresentar resultados semelhantes em áreas correlatas, especialmente nas disciplinas de exatas, onde a relação se mostra mais consistente. Além disso, há uma diferença clara entre tipos de escola, com alunos de escolas privadas concentrando-se em faixas de notas mais elevadas e apresentando menor dispersão, enquanto alunos de escolas públicas demonstram maior variabilidade no desempenho.
+
+
+  <img width="650" height="450" alt="image" src="https://github.com/user-attachments/assets/f889842f-f990-4b73-acab-fc0783119d8e" />
+
+
   <img width="550" height="500" alt="image" src="https://github.com/user-attachments/assets/cc6c2deb-d9e4-4771-8919-be11fd01c0c4" /> 
   <img width="550" height="500" alt="image" src="https://github.com/user-attachments/assets/0365c037-48da-4676-8c43-90f059c4aa9c" />
 

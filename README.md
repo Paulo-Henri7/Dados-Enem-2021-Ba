@@ -98,3 +98,13 @@ As provas objetivas do ENEM apresentam correlações moderadas entre si, indican
 * Análise geográfica
 
   <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/65f4a325-9f96-4879-9c3d-e5a873e3ab19" />
+
+# Relatório Power BI
+
+
+
+<img width="1920" height="1080" alt="Gif_projeto_ENEM_1" src="https://github.com/user-attachments/assets/e9f51e5e-acf2-4850-97ee-79f69d88b97e" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/667da114-5908-4939-8312-7cc6b7a4e5da" />
+
+

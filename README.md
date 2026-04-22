@@ -1,8 +1,8 @@
 # Projeto Enem - Análise de dados ENEM 2021 Bahia
 
-Este projeto tem como objetivo analisar os dados do ENEM 2021 no estado da Bahia, com foco em identificar fatores que influenciam o desempenho dos participantes.
+# Introdução
 
-A partir de técnicas de análise exploratória de dados (EDA), são investigadas variáveis socioeconômicas e demográficas, como sexo, cor/raça, renda familiar e tipo de escolaridade, a fim de compreender suas relações com as notas obtidas nas diferentes áreas do exame.
+O Exame Nacional do Ensino Médio (ENEM) é uma das principais avaliações educacionais do Brasil, sendo amplamente utilizado como porta de entrada para o ensino superior. Nesse contexto, compreender os fatores que influenciam o desempenho dos participantes é fundamental para análises educacionais e sociais mais profundas. Este projeto tem como objetivo explorar os dados do ENEM 2021 no estado da Bahia, utilizando técnicas de Análise Exploratória de Dados (EDA) e visualização de dados para identificar padrões, correlações e possíveis desigualdades no desempenho dos candidatos. Ao longo da análise, foram investigadas variáveis como sexo, tipo de escola, renda familiar, cor/raça e localização geográfica, buscando entender como esses fatores se relacionam com as notas obtidas nas diferentes áreas do exame. Além disso, foram analisadas as correlações entre as provas, evidenciando relações entre áreas do conhecimento e destacando particularidades da redação. Complementando a análise estatística, foram desenvolvidos dashboards interativos no Power BI, permitindo uma exploração mais dinâmica dos dados e facilitando a identificação de tendências, concentrações e discrepâncias entre grupos e regiões. Mais do que apresentar visualizações, este projeto busca transformar dados em insights, evidenciando padrões relevantes e levantando reflexões sobre o cenário educacional, com destaque para diferenças de desempenho associadas a fatores socioeconômicos e estruturais.
 
 # Perguntas de análise
 
@@ -117,5 +117,30 @@ A análise por município evidencia que a participação no ENEM está fortement
 
 # Ferramentas/Tecnologias usadas
 
+<!-- <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg"/>
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
+
+<img width="50" height="50" src="https://github.com/user-attachments/assets/fcd1f5d3-64f1-433c-8e75-df378fc6d5ce"/>
+<img width="200" height="100" src="https://github.com/user-attachments/assets/265d3b82-a61b-4356-9962-79f969b3ea53"/>
+<img width="200" height="100" src="https://github.com/user-attachments/assets/67090c99-02a3-410d-9619-6fb2011b11e5"/>
+<img width="200" height="100" src="https://github.com/user-attachments/assets/02b2f8c2-da1c-4f9c-af2d-6e2a3bbeaa59"/> -->
 
 
+<p align="center">
+  <img width="150"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
+  <img width="150"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img width="150"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg"/>
+  <img width="150"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
+  <img width="150"  src="https://github.com/user-attachments/assets/fcd1f5d3-64f1-433c-8e75-df378fc6d5ce"/>
+</p>
+
+<p align="center">
+  <img width="200" src="https://github.com/user-attachments/assets/67090c99-02a3-410d-9619-6fb2011b11e5"/>
+  <img width="200" src="https://github.com/user-attachments/assets/02b2f8c2-da1c-4f9c-af2d-6e2a3bbeaa59"/>
+</p>
+
+<p align="center">
+  <img width="200" src="https://github.com/user-attachments/assets/265d3b82-a61b-4356-9962-79f969b3ea53"/>
+</p>

@@ -93,19 +93,29 @@ A análise evidencia uma diferença consistente de desempenho entre alunos de es
  
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/303b333e-04d3-483c-9a94-c6eef96657b9" />
 
-As provas objetivas do ENEM apresentam correlações moderadas entre si, indicando que o desempenho dos alunos tende a ser relativamente consistente entre diferentes áreas do conhecimento, com destaque para a forte relação entre Linguagens e Ciências Humanas, possivelmente devido à similaridade nas habilidades exigidas, como interpretação e análise textual. As demais combinações, incluindo Matemática e Ciências da Natureza, também demonstram correlações relevantes, sugerindo uma base comum de competências. Por outro lado, a Redação apresenta correlações mais baixas com todas as provas, variando entre 0.44 e 0.49, o que indica que essa avaliação mede habilidades mais específicas, como argumentação, coesão textual e repertório sociocultural.
+As provas objetivas do ENEM apresentam correlações moderadas entre si, indicando que o desempenho dos alunos tende a ser relativamente consistente entre diferentes áreas do conhecimento, com destaque para a forte relação entre Linguagens e Ciências Humanas, possivelmente devido à similaridade nas habilidades exigidas, como interpretação e análise textual. As demais combinações, incluindo Matemática e Ciências da Natureza, também demonstram correlações relevantes, sugerindo uma base comum de competências. Por outro lado, a Redação apresenta correlações mais baixas m todas as provas, variando entre 0.44 e 0.49, o que indica que essa avaliação mede habilidades mais específicas, como argumentação, coesão textual e repertório sociocultural.
 
 * Análise geográfica
 
   <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/65f4a325-9f96-4879-9c3d-e5a873e3ab19" />
 
+O mapa mostra que o desempenho médio no ENEM varia entre os municípios da Bahia, sem um padrão regional claramente definido. Municípios com médias mais altas e mais baixas aparecem distribuídos ao longo do estado, o que sugere que o desempenho pode estar mais relacionado a fatores locais, como qualidade das escolas e condições socioeconômicas, do que apenas à localização geográfica. Além disso, a maior parte dos municípios apresenta médias em faixas intermediárias, indicando que o desempenho geral não varia de forma extrema na maioria dos casos. No entanto, é importante considerar que apenas 162 dos 417 municípios possuem dados, o que pode limitar a análise e dificultar a identificação de padrões mais consistentes.
+
 # Relatório Power BI
 
+<img width="1920" height="1080" alt="Gif_projeto_ENEM_1" src="https://github.com/user-attachments/assets/d49e2ae1-5b32-428d-bfe0-d5bcf12ed156" />
 
-
-<img width="1920" height="1080" alt="Gif_projeto_ENEM_1" src="https://github.com/user-attachments/assets/e9f51e5e-acf2-4850-97ee-79f69d88b97e" />
+A análise evidencia uma diferença consistente de desempenho entre alunos de escolas públicas e privadas, com vantagem para estudantes de escolas privadas em todas as provas avaliadas. Além disso, observa-se que participantes que optaram pela prova de língua estrangeira em inglês apresentam, em média, notas superiores em relação aos que escolheram espanhol.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/667da114-5908-4939-8312-7cc6b7a4e5da" />
 
+A análise indica que participantes do sexo masculino apresentam, em média, desempenho ligeiramente superior em relação ao sexo feminino. Essa diferença é consistente entre as provas, com destaque para Matemática e Ciências da Natureza, onde o desempenho masculino se mostra mais elevado. Além disso, observa-se que o sexo masculino apresenta maior variabilidade nas notas, por valores mais altos de variância e desvio padrão, indicando maior dispersão no desempenho, ou seja, há tanto mais alunos com notas altas quanto com notas baixas em comparação ao sexo feminino. Já o desempenho feminino tende a ser mais concentrado, refletindo maior consistência nas notas.
+
 <img width="1920" height="1080" alt="Gif_projeto_ENEM_2" src="https://github.com/user-attachments/assets/ad9b3dc8-9145-48cf-929c-fe294dc5fdf1" />
+
+A análise por município evidencia que a participação no ENEM está fortemente concentrada em grandes centros urbanos, com destaque para Salvador, que possui um volume significativamente maior de participantes em relação às demais cidades. No entanto, ao observar o ranking das maiores médias, nota-se que municípios com menor número de participantes também aparecem entre os melhores desempenhos, indicando que alta participação não está relacionada com melhores resultados. Além disso, a distribuição geográfica sugere maior concentração de participantes em áreas mais urbanizadas, enquanto municípios do interior apresentam menor densidade de participação. De forma geral, os dados indicam que o desempenho no ENEM varia entre os municípios e não depende exclusivamente do volume de participantes.
+
+# Ferramentas/Tecnologias usadas
+
+
 

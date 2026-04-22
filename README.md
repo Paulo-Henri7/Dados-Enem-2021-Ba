@@ -101,7 +101,7 @@ As provas objetivas do ENEM apresentam correlações moderadas entre si, indican
 
 O mapa mostra que o desempenho médio no ENEM varia entre os municípios da Bahia, sem um padrão regional claramente definido. Municípios com médias mais altas e mais baixas aparecem distribuídos ao longo do estado, o que sugere que o desempenho pode estar mais relacionado a fatores locais, como qualidade das escolas e condições socioeconômicas, do que apenas à localização geográfica. Além disso, a maior parte dos municípios apresenta médias em faixas intermediárias, indicando que o desempenho geral não varia de forma extrema na maioria dos casos. No entanto, é importante considerar que apenas 162 dos 417 municípios possuem dados, o que pode limitar a análise e dificultar a identificação de padrões mais consistentes.
 
-# Relatório Power BI
+# Relatórios Power BI
 
 <img width="1920" height="1080" alt="Gif_projeto_ENEM_1" src="https://github.com/user-attachments/assets/d49e2ae1-5b32-428d-bfe0-d5bcf12ed156" />
 

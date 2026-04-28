@@ -101,6 +101,25 @@ As provas objetivas do ENEM apresentam correlações moderadas entre si, indican
 
 O mapa mostra que o desempenho médio no ENEM varia entre os municípios da Bahia, sem um padrão regional claramente definido. Municípios com médias mais altas e mais baixas aparecem distribuídos ao longo do estado, o que sugere que o desempenho pode estar mais relacionado a fatores locais, como qualidade das escolas e condições socioeconômicas, do que apenas à localização geográfica. Além disso, a maior parte dos municípios apresenta médias em faixas intermediárias, indicando que o desempenho geral não varia de forma extrema na maioria dos casos. No entanto, é importante considerar que apenas 162 dos 417 municípios possuem dados, o que pode limitar a análise e dificultar a identificação de padrões mais consistentes.
 
+# Modelagem de dados (Power BI)
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e40317cb-22cb-4571-b1ee-ab7951858707" width="80%" />
+</p>
+
+A modelagem de dados foi estruturada seguindo princípios de modelagem dimensional, com o objetivo de otimizar a análise e garantir maior flexibilidade na construção dos dashboards no Power BI.
+
+O modelo adotado se aproxima de um esquema estrela (star schema), onde a tabela fato `fct_dados_enem` centraliza as métricas de desempenho dos participantes, enquanto as tabelas dimensionais enriquecem a análise com diferentes perspectivas.
+
+- A fct_dados_enem contém as informações principais de desempenho, como notas das provas e métricas agregadas.
+- A dim_socioeconomicos reúne variáveis relacionadas ao contexto familiar e socioeconômico dos participantes, permitindo análises mais profundas sobre fatores que influenciam o desempenho.
+- A dim_cidades complementa os dados com informações geográficas, possibilitando análises regionais e visualizações em mapas.
+
+As relações entre as tabelas foram definidas de forma a garantir integridade e permitir segmentações dinâmicas nos dashboards, facilitando o cruzamento de diferentes dimensões (como escola, renda e localização) com as notas dos alunos.
+
+Essa abordagem torna o modelo mais escalável, organizado e eficiente para análises exploratórias e construção de relatórios interativos.
+
 # Relatórios Power BI
 
 <img width="1920" height="1080" alt="Gif_projeto_ENEM_1" src="https://github.com/user-attachments/assets/d49e2ae1-5b32-428d-bfe0-d5bcf12ed156" />
